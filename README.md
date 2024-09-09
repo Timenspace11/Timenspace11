@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timenspace11&label=Profile%20views&color=0e75b6&style=flat" alt="timenspace11" /> </p>
 
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
